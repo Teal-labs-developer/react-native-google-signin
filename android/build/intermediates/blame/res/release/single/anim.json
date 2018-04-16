@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/panda/Desktop/Nido/NidoTeacher/js/nodeModules/react-native-google-signin/android/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/panda/.android/build-cache/f7f3cdfdb27d6cfe2834f0b62832bf822a14e7de/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/panda/Desktop/Nido/NidoTeacher/js/nodeModules/react-native-google-signin/android/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
+        "source": "/Users/panda/.android/build-cache/e1ebef8d881870c10919434260245e295067eebc/output/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/panda/Desktop/Nido/NidoTeacher/js/nodeModules/react-native-google-signin/android/build/intermediates/res/merged/release/anim/catalyst_fade_in.xml",
+        "source": "/Users/panda/.android/build-cache/e1ebef8d881870c10919434260245e295067eebc/output/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/panda/Desktop/Nido/NidoTeacher/js/nodeModules/react-native-google-signin/android/build/intermediates/res/merged/release/anim/catalyst_fade_out.xml",
+        "source": "/Users/panda/.android/build-cache/e1ebef8d881870c10919434260245e295067eebc/output/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/panda/Desktop/Nido/NidoTeacher/js/nodeModules/react-native-google-signin/android/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/panda/.android/build-cache/f7f3cdfdb27d6cfe2834f0b62832bf822a14e7de/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/panda/Desktop/Nido/NidoTeacher/js/nodeModules/react-native-google-signin/android/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/panda/.android/build-cache/f7f3cdfdb27d6cfe2834f0b62832bf822a14e7de/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/panda/Desktop/Nido/NidoTeacher/js/nodeModules/react-native-google-signin/android/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/panda/.android/build-cache/f7f3cdfdb27d6cfe2834f0b62832bf822a14e7de/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/panda/Desktop/Nido/NidoTeacher/js/nodeModules/react-native-google-signin/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/panda/.android/build-cache/f7f3cdfdb27d6cfe2834f0b62832bf822a14e7de/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/panda/Desktop/Nido/NidoTeacher/js/nodeModules/react-native-google-signin/android/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/panda/.android/build-cache/f7f3cdfdb27d6cfe2834f0b62832bf822a14e7de/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/panda/Desktop/Nido/NidoTeacher/js/nodeModules/react-native-google-signin/android/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/panda/.android/build-cache/f7f3cdfdb27d6cfe2834f0b62832bf822a14e7de/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/panda/Desktop/Nido/NidoTeacher/js/nodeModules/react-native-google-signin/android/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/panda/.android/build-cache/f7f3cdfdb27d6cfe2834f0b62832bf822a14e7de/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/panda/Desktop/Nido/NidoTeacher/js/nodeModules/react-native-google-signin/android/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/panda/.android/build-cache/f7f3cdfdb27d6cfe2834f0b62832bf822a14e7de/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/panda/Desktop/Nido/NidoTeacher/js/nodeModules/react-native-google-signin/android/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
+        "source": "/Users/panda/.android/build-cache/e1ebef8d881870c10919434260245e295067eebc/output/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/panda/Desktop/Nido/NidoTeacher/js/nodeModules/react-native-google-signin/android/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/panda/.android/build-cache/e1ebef8d881870c10919434260245e295067eebc/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/panda/Desktop/Nido/NidoTeacher/js/nodeModules/react-native-google-signin/android/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/panda/.android/build-cache/e1ebef8d881870c10919434260245e295067eebc/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/panda/Desktop/Nido/NidoTeacher/js/nodeModules/react-native-google-signin/android/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/panda/.android/build-cache/f7f3cdfdb27d6cfe2834f0b62832bf822a14e7de/output/res/anim/abc_fade_in.xml"
+    }
+]

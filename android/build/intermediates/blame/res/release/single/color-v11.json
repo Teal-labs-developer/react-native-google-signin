@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/panda/Desktop/Nido/NidoTeacher/js/nodeModules/react-native-google-signin/android/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/panda/.android/build-cache/f7f3cdfdb27d6cfe2834f0b62832bf822a14e7de/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/panda/Desktop/Nido/NidoTeacher/js/nodeModules/react-native-google-signin/android/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/panda/.android/build-cache/f7f3cdfdb27d6cfe2834f0b62832bf822a14e7de/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

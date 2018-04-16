@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/panda/Desktop/Nido/NidoTeacher/js/nodeModules/react-native-google-signin/android/build/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/panda/.android/build-cache/d6ea8a19c4a3b6cebd0cba5370bdc8c309756546/output/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/panda/Desktop/Nido/NidoTeacher/js/nodeModules/react-native-google-signin/android/build/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/panda/.android/build-cache/d6ea8a19c4a3b6cebd0cba5370bdc8c309756546/output/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/panda/Desktop/Nido/NidoTeacher/js/nodeModules/react-native-google-signin/android/build/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/panda/.android/build-cache/d6ea8a19c4a3b6cebd0cba5370bdc8c309756546/output/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    }
+]
